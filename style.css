@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #228B22;
+    color: #8B4513;
+}
+main{
+color:#008B8B;
+}
+footer{
+background-color:#1E90FF;
+}
+nav{
+margin:20px;
+padding:10px;
+border:2px solid Gold;
+}
+nav a{
+margin:60px;
+font-size:20px;
+text-decoration:none;
+color:rgb(205, 92, 92);
+}
+.ilop63 {
+    background-color: PowderBlue;
+}
+.discount {
+    padding-top:20px;
+}
